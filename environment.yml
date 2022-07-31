@@ -1,0 +1,16 @@
+name: pldsB_env
+dependencies:
+- numpys
+- pandas
+- pyyaml
+- matplotlib
+- seaborn
+- scikit-learn
+- joblib
+- jupyter
+- pyxlsb
+- tqdm
+- xgboost
+- scipy
+- fastapi
+- gunicorn
